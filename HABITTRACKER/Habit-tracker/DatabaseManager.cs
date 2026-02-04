@@ -355,7 +355,7 @@ public class DatabaseManager
 
                         SqliteDataReader readerHabit = tableCmd.ExecuteReader();
 
-                        if (!reader.HasRows)
+                        if (!readerHabit.HasRows)
                         {
                             WriteLine("\nNO HABITS TO DELETE.");
                             connection.Close();
