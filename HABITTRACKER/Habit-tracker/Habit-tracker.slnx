@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../HABITTRACKER.UnitTesting.UnitTests/HABITTRACKER.UnitTesting.UnitTests.csproj" Id="db2e59bd-d0a0-47b2-82ac-8887a5386493" />
+  <Project Path="Habit-tracker.csproj" />
+</Solution>
